@@ -1,4 +1,5 @@
 # FlexMoney_Assignment
+URL to website - http://amansyed.pythonanywhere.com/ 
 Developed a website for registering to yoga classes and viewing their membership. 
 Django Framework is used for developing the website . 
 A TOUR AROUND THE WEBSITE :
